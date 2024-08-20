@@ -12,3 +12,7 @@ This is a simple web-based calculator built using Python and Flask. The calculat
 
 ## Project Structure
 
+## Make sure you have all the dependencies installed
+  pip install Flask
+
+  ## Happy calculating!
